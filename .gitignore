@@ -1,0 +1,8 @@
+“#LR_4”
+*.txt
+*.a
+*.[oa]
+*~
+!lib.a
+/TODO
+build/
